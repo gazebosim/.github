@@ -23,7 +23,7 @@ before and after the PR.-->
 - [ ] All tests passed (See [test coverage](https://ignitionrobotics.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aignitionrobotics+repo%3Aosrf%2Fsdformat+archived%3Afalse+) to support the maintainers
 
-**Note to maintainers**: Remember to use **Squash-Merge**
+**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary.
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
@@ -48,7 +48,7 @@ context (e.g., screenshots, gifs) if appropriate.-->
 - [ ] All tests passed (See [test coverage](https://ignitionrobotics.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aignitionrobotics+repo%3Aosrf%2Fsdformat+archived%3Afalse+) to support the maintainers
 
-**Note to maintainers**: Remember to use **Squash-Merge**
+**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary.
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
@@ -84,4 +84,4 @@ Needed by <PR(s)>
 
 <!-- Please refer to http://github.com/docs/release.md#triggering-a-release for more information -->
 
-**Note to maintainers**: Remember to use **Squash-Merge**
+**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary.
