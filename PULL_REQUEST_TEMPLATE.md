@@ -19,6 +19,7 @@ before and after the PR.-->
 - [ ] Added tests
 - [ ] Updated documentation (as needed)
 - [ ] Updated migration guide (as needed)
+- [ ] Consider updating Python bindings (if the library has them)
 - [ ] `codecheck` passed (See [contributing](https://ignitionrobotics.org/docs/all/contributing#contributing-code))
 - [ ] All tests passed (See [test coverage](https://ignitionrobotics.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aignitionrobotics+repo%3Aosrf%2Fsdformat+archived%3Afalse+) to support the maintainers
@@ -44,6 +45,7 @@ context (e.g., screenshots, gifs) if appropriate.-->
 - [ ] Added example and/or tutorial
 - [ ] Updated documentation (as needed)
 - [ ] Updated migration guide (as needed)
+- [ ] Consider updating Python bindings (if the library has them)
 - [ ] `codecheck` passed (See [contributing](https://ignitionrobotics.org/docs/all/contributing#contributing-code))
 - [ ] All tests passed (See [test coverage](https://ignitionrobotics.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Aignitionrobotics+repo%3Aosrf%2Fsdformat+archived%3Afalse+) to support the maintainers
