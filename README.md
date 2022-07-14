@@ -1,2 +1,2 @@
 # .github
-Default Ignition health files such as issue and PR templates
+Default Gazebo health files such as issue and PR templates
