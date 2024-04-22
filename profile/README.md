@@ -16,6 +16,7 @@ Looking to get started with simulations in Gazebo? Our [installation guide is av
 * [Robotics Stack Exchange](https://robotics.stackexchange.com/) (preferred Gazebo support forum).
 * [Official Gazebo Videos](https://vimeo.com/osrfoundation)
 * [Gazebo Resource Status Page](https://status.openrobotics.org/)
+* [Gazebo Documentation Index](https://j-rivero.github.io/gazebo-doc-index/)
 
 ## Developer Resources
 * [Gazebo Installation Instructions](https://gazebosim.org/docs/latest/ros_installation)
