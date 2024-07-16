@@ -37,7 +37,7 @@ Looking to get started with simulations in Gazebo? Our [installation guide is av
 * [ROS / GZ Bridge](https://github.com/gazebosim/ros_gz)
 
 ## Events
-* [ROSCon](https://roscon.ros.org), our yearly developer conference than includes Gazebo developers. 
+* [ROSCon](https://roscon.ros.org), our yearly developer conference that includes Gazebo developers. 
 * [Open Source Robotics Foundation Events Calendar](https://calendar.google.com/calendar/u/0/embed?src=agf3kajirket8khktupm9go748@group.calendar.google.com&ctz=America/Los_Angeles) -- [submit an event](https://bit.ly/OSRFCalendarForm)
 * [Open Source Robotics Foundation Community Events Calendar](https://calendar.google.com/calendar/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0%40group.calendar.google.com&ctz=America%2FLos_Angeles) -- [submit an event](https://bit.ly/OSRFCommunityCalendar)
 
