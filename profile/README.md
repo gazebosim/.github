@@ -4,9 +4,11 @@
 Gazebo brings a fresh approach to simulation with a complete toolbox of development libraries and cloud services to make simulation easy. Iterate fast on your new physical designs in realistic environments with high fidelity sensors streams. Test control strategies in safety, and take advantage of simulation in continuous integration tests. Full project details are available at [GazeboSim.org](https://gazebosim.org/home)
 
 # Getting Started 
-There are two major versions of Gazebo: Gazebo Classic, and Gazebo [(formerly Ignition)](https://community.gazebosim.org/t/a-new-era-for-gazebo/1356). Gazebo Classic releases use numbers to track versions while Gazebo uses lettered release names (e.g. Fortress, Garden, etc). A comparison between the two major versions of Gazebo can be [found here](https://gazebosim.org/docs/garden/comparison). **We recommend new Gazebo users start with the lastest release [Gazebo Garden](https://www.openrobotics.org/blog/2022/10/3/gazebo-garden-released)**. Check out this video if you want to learn all about the new features in [Gazebo Garden](https://www.youtube.com/watch?v=k5vgdqjRWuw). 
+There are two major versions of Gazebo: Gazebo Classic, and Gazebo [(formerly Ignition)](https://community.gazebosim.org/t/a-new-era-for-gazebo/1356). Gazebo Classic releases use numbers to track versions while Gazebo uses lettered release names (e.g. Fortress, Garden, etc). A comparison between the two major versions of Gazebo can be [found here](https://gazebosim.org/docs/latest/comparison). **We recommend new Gazebo users start with the lastest release [Gazebo Harmonic](https://community.gazebosim.org/t/gazebo-harmonic-release/2311)**. Check out this video if you want to learn all about the new features in [Gazebo Harmonic](https://vimeo.com/868835608). 
 
-Looking to get started with simulations in Gazebo? Our [installation guide is available here](https://gazebosim.org/docs/latest/ros_installation). If you want to install Gazebo and ROS together we recommend [this guide]((https://gazebosim.org/docs/latest/ros_installation)). Once you've installed Gazebo start learning with our [beginner tutorials](https://gazebosim.org/docs/garden/tutorials).
+Looking to get started with simulations in Gazebo? Our [installation guide is available here](https://gazebosim.org/docs/latest/ros_installation). If you want to install Gazebo and ROS together we recommend [this guide]((https://gazebosim.org/docs/latest/ros_installation)). Once you've installed Gazebo start learning with our [beginner tutorials](https://gazebosim.org/docs/latest/tutorials).
+
+If you are interested in contributing to Gazebo, we'd love to have you! Start by familiarizing yourself with our [contribution guide](https://gazebosim.org/docs/latest/contributing/). Then look for an open issue labeled "good first issue" ([handy link](https://github.com/search?q=org%3Agazebosim+label%3A%22good+first+issue%22+is%3Aopen&type=issues)) that seems interesting. Comment on the issue that you're interested in working on it and one of the maintainers will assign the issue to you. Following the [contribution guide](https://gazebosim.org/docs/latest/contributing/) mentioned before, create your first pull request. Issues labeled "help wanted" are also up for grabs ([handy link](https://github.com/search?q=org%3Agazebosim+label%3A%22help+wanted%22+is%3Aopen&type=issues)), but they will require more experience with the code base.
 
 # Join the [Gazebo](https://gazebosim.org/home) Community
 
@@ -19,8 +21,9 @@ Looking to get started with simulations in Gazebo? Our [installation guide is av
 * [Gazebo Documentation Index](https://j-rivero.github.io/gazebo-doc-index/)
 
 ## Developer Resources
+* [Gazebo Project Board](https://github.com/orgs/gazebosim/projects/7)
 * [Gazebo Installation Instructions](https://gazebosim.org/docs/latest/ros_installation)
-* [Gazebo Tutorials](https://gazebosim.org/docs/garden/tutorials)
+* [Gazebo Tutorials](https://gazebosim.org/docs/latest/tutorials)
 * [Gazebo Documentation](https://gazebosim.org/docs)
 * [Gazebo Website](https://gazebosim.org/home)
 * [Gazebo Source Code](https://github.com/gazebosim)
