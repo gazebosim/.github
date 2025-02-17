@@ -4,6 +4,12 @@ For example, if this is a new feature, remove all sections except for the "New f
 
 If this is your first time opening a PR, be sure to check the contribution guide:
 https://gazebosim.org/docs/all/contributing
+
+You may also want to check which base branch you wish to commit to:
+- If you have a new API/ABI Breaking change or are changing the bevaviour of a system
+please target the main branch.
+- If you are making interdependent changes to multiple repositories without breaking API or ABI, it is recommended to base your new branches off of the branch used in the upcoming collection to simplify automated testing of the changes and the review process. For example, at the time this documentation is being written the upcoming Jetty collection branches are documented in [gazebodistro](). Your changes may be backported to an existing release once all the changes have been merged.
+- If your changes don't break API/ABI and you would like them to be released to an existing release with major version N, then use branch gz-<library>N as the base.
 -->
 
 # 🦟 Bug fix
