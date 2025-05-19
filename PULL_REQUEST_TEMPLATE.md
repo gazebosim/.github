@@ -23,7 +23,7 @@ before and after the PR.-->
 - [ ] `codecheck` passed (See [contributing](https://gazebosim.org/docs/all/contributing#contributing-code))
 - [ ] All tests passed (See [test coverage](https://gazebosim.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Agazebosim+archived%3Afalse+) to support the maintainers
-- [ ] Was GenAI used to generate this PR. If it was make sure to add "Generated-By" to your commits
+- [ ] Was GenAI used to generate this PR. If it was make sure to add "Generated-by" to your commits. (See [this policy](https://osralliance.org/wp-content/uploads/2025/05/OSRF-Policy-on-the-Use-of-Generative-Tools-Generative-AI-in-Contributions.pdf) for mor info.)
 
 Generated-by: Remove this if GenAI was not used.
 
