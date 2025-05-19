@@ -23,8 +23,11 @@ before and after the PR.-->
 - [ ] `codecheck` passed (See [contributing](https://gazebosim.org/docs/all/contributing#contributing-code))
 - [ ] All tests passed (See [test coverage](https://gazebosim.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Agazebosim+archived%3Afalse+) to support the maintainers
+- [ ] Was GenAI used to generate this PR. If it was make sure to add "Generated-By" to your commits
 
-**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary while retaining `Signed-off-by` messages.
+Generated-by: Remove this if GenAI was not used.
+
+**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary while retaining `Signed-off-by` and `Generated-by` messages.
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
@@ -49,8 +52,11 @@ context (e.g., screenshots, gifs) if appropriate.-->
 - [ ] `codecheck` passed (See [contributing](https://gazebosim.org/docs/all/contributing#contributing-code))
 - [ ] All tests passed (See [test coverage](https://gazebosim.org/docs/all/contributing#test-coverage))
 - [ ] While waiting for a review on your PR, please help review [another open pull request](https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3Agazebosim+archived%3Afalse+) to support the maintainers
+- [ ] Was GenAI used to generate this PR. If it was make sure to add "Generated-By" to your commits
 
-**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary while retaining `Signed-off-by` messages.
+Generated-by: Remove this if GenAI was not used.
+
+**Note to maintainers**: Remember to use **Squash-Merge** and edit the commit message to match the pull request summary while retaining `Signed-off-by` and `Generated-by` messages.
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
