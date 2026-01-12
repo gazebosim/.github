@@ -4,7 +4,7 @@
 Gazebo brings a fresh approach to simulation with a complete toolbox of development libraries and cloud services to make simulation easy. Iterate fast on your new physical designs in realistic environments with high fidelity sensors streams. Test control strategies in safety, and take advantage of simulation in continuous integration tests. Full project details are available at [GazeboSim.org](https://gazebosim.org/home)
 
 # Getting Started 
-There are two major versions of Gazebo: Gazebo Classic (which is **End of Life**), and Gazebo [(formerly Ignition)](https://community.gazebosim.org/t/a-new-era-for-gazebo/1356). Gazebo Classic releases use numbers to track versions while Gazebo uses lettered release names (e.g. Fortress, Garden, etc). A comparison between the two major versions of Gazebo can be [found here](https://gazebosim.org/docs/latest/comparison). **We recommend new Gazebo users start with the lastest long term release [Gazebo Harmonic](https://gazebosim.org/docs/harmonic/getstarted/)**. Check out this video if you want to learn all about the new features in [Gazebo Harmonic](https://vimeo.com/868835608). 
+There are two major versions of Gazebo: Gazebo Classic (which is **End of Life**), and Gazebo [(formerly Ignition)](https://community.gazebosim.org/t/a-new-era-for-gazebo/1356). Gazebo Classic releases use numbers to track versions while Gazebo uses lettered release names (e.g. Fortress, Garden, etc). A comparison between the two major versions of Gazebo can be [found here](https://gazebosim.org/docs/latest/comparison). **We recommend new Gazebo users start with the lastest long term release [Gazebo Jetty](https://gazebosim.org/docs/jetty/getstarted/)**. Check out this video if you want to learn all about the new features in [Gazebo Jetty](https://vimeo.com/1136158328). 
 
 Looking to get started with simulations in Gazebo? Our [installation guide is available here](https://gazebosim.org/docs/latest/ros_installation). If you want to install Gazebo and ROS together we recommend [this guide]((https://gazebosim.org/docs/latest/ros_installation)). Once you've installed Gazebo start learning with our [beginner tutorials](https://gazebosim.org/docs/latest/tutorials).
 
@@ -33,7 +33,7 @@ If you are interested in contributing to Gazebo, we'd love to have you! Start by
 * [Gazebo Graphics and Trademark](https://gazebosim.org/media)
 
 ## Using ROS with Gazebo
-* [ROS / Gazebo Installation Guide](https://gazebosim.org/docs/latest/ros_installation) -- End-of-life so please use the latest Gazebo
+* [ROS / Gazebo Installation Guide](https://gazebosim.org/docs/latest/ros_installation)
 * [ROS 2 / Gazebo Project Template](https://github.com/gazebosim/ros_gz_project_template)
 * [ROS 2 / Gazebo Example Code](https://github.com/gazebosim/ros_gz/tree/ros2/ros_gz_sim_demos)
 * [TurtleBot4 Simulator](https://turtlebot.github.io/turtlebot4-user-manual/software/turtlebot4_simulator.html)
