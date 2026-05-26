@@ -14,6 +14,8 @@ Fixes #<NUMBER>
 <!-- Describe your fix, including an explanation of how to reproduce the bug
 before and after the PR.-->
 
+Bakport Policy: (Should this PR be backported to older versions? If so till where. If you're unsure leave this empty and let the maintainer advise)
+
 ## Checklist
 - [ ] Signed all commits for DCO
 - [ ] Added a screen capture or video to the PR description that demonstrates the fix (as needed)
@@ -42,6 +44,7 @@ Closes #<NUMBER>
 ## Summary
 <!--Explain changes made, the expected behavior, and provide any other additional
 context (e.g., screenshots, gifs) if appropriate.-->
+Bakport Policy: (Should this PR be backported to older versions? If so till where. If you're unsure leave this empty and let the maintainer advise)
 
 ## Test it
 <!--Explain how reviewers can test this new feature manually.-->
