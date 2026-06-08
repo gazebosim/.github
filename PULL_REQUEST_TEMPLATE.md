@@ -68,16 +68,6 @@ Generated-by: Remove this if GenAI was not used.
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
-# ➡️ Forward port
-
-Port <FROM_BRANCH> to <TO_BRANCH>
-
-Branch comparison: https://github.com/gazebosim/<REPO>/compare/<TO_BRANCH>...<FROM_BRANCH>
-
-**Note to maintainers**: Remember to **Merge** with commit (not squash-merge or rebase)
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-
 <!-- For maintainers only -->
 
 # 🎈 Release
