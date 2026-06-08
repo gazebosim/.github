@@ -53,8 +53,17 @@ Closes #<NUMBER>
 ## Summary
 <!--Explain changes made, the expected behavior, and provide any other additional
 context (e.g., screenshots, gifs) if appropriate.-->
-Bakport Policy: (Should this PR be backported to older versions? If so till where. If you're unsure leave this empty and let the maintainer advise)
 
+## Backport Policy
+<!-- Should this PR be backported to older versions? Important factors to consider include API/ABI and behavior changes. If so, which versions? Choose one pre-written option or suggest your own. If you're unsure leave this empty and let the maintainer advise. -->
+- [ ] This is safe to backport to the following versions:
+    - [ ] Jetty
+    - [ ] Ionic
+    - [ ] Harmonic
+    - [ ] Fortress
+- [ ] This **should not** be backported
+- [ ] I am not sure
+- [ ] Other (fill in yourself)
 ## Test it
 <!--Explain how reviewers can test this new feature manually.-->
 
