@@ -14,6 +14,17 @@ Fixes #<NUMBER>
 <!-- Describe your fix, including an explanation of how to reproduce the bug
 before and after the PR.-->
 
+## Backport Policy
+<!-- Should this PR be backported to older versions? Important factors to consider include API/ABI and behavior changes. If so, which versions? Choose one pre-written option or suggest your own. If you're unsure leave this empty and let the maintainer advise. -->
+- [ ] This is safe to backport to the following versions:
+    - [ ] Jetty
+    - [ ] Ionic
+    - [ ] Harmonic
+    - [ ] Fortress
+- [ ] This **should not** be backported
+- [ ] I am not sure
+- [ ] Other (fill in yourself)
+
 ## Checklist
 - [ ] Signed all commits for DCO
 - [ ] Added a screen capture or video to the PR description that demonstrates the fix (as needed)
@@ -43,6 +54,16 @@ Closes #<NUMBER>
 <!--Explain changes made, the expected behavior, and provide any other additional
 context (e.g., screenshots, gifs) if appropriate.-->
 
+## Backport Policy
+<!-- Should this PR be backported to older versions? Important factors to consider include API/ABI and behavior changes. If so, which versions? Choose one pre-written option or suggest your own. If you're unsure leave this empty and let the maintainer advise. -->
+- [ ] This is safe to backport to the following versions:
+    - [ ] Jetty
+    - [ ] Ionic
+    - [ ] Harmonic
+    - [ ] Fortress
+- [ ] This **should not** be backported
+- [ ] I am not sure
+- [ ] Other (fill in yourself)
 ## Test it
 <!--Explain how reviewers can test this new feature manually.-->
 
