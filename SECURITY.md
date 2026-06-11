@@ -6,7 +6,7 @@ This document outlines what is covered by this policy and how to report security
 
 ## Supported Releases
 
-The list of Gazebo releases and their support status can be found at https://gazebosim.org/docs/all/releases.
+The list of Gazebo releases and their support status can be found at https://gazebosim.org/docs/latest/releases.
 
 ## Scope
 
@@ -42,6 +42,5 @@ Because security vulnerabilities can have severe consequences, they differ from 
 
 Open Robotics strongly supports security research into Gazebo software and seeks to encourage that research.
 Open Robotics will not engage in legal action against individuals who act in good faith to identify, report and fix vulnerabilities in Gazebo, so long as they operate in accordance with any applicable laws or this policy.
-Research or testing against operating robotic systems without the consent of the owner/operator is in violation of this policy and strongly discouraged due to potential health and human safety concerns.
 
 If at any time you have concerns about whether your activities are consistent with this policy, please contact us at security@openrobotics.org.
