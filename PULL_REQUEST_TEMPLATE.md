@@ -18,7 +18,6 @@ before and after the PR.-->
 <!-- Should this PR be backported to older versions? Important factors to consider include API/ABI and behavior changes. If so, which versions? Choose one pre-written option or suggest your own. If you're unsure leave this empty and let the maintainer advise. -->
 - [ ] This is safe to backport to the following versions:
     - [ ] Jetty
-    - [ ] Ionic
     - [ ] Harmonic
     - [ ] Fortress
 - [ ] This **should not** be backported
@@ -58,7 +57,6 @@ context (e.g., screenshots, gifs) if appropriate.-->
 <!-- Should this PR be backported to older versions? Important factors to consider include API/ABI and behavior changes. If so, which versions? Choose one pre-written option or suggest your own. If you're unsure leave this empty and let the maintainer advise. -->
 - [ ] This is safe to backport to the following versions:
     - [ ] Jetty
-    - [ ] Ionic
     - [ ] Harmonic
     - [ ] Fortress
 - [ ] This **should not** be backported
